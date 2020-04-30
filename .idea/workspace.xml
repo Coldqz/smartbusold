@@ -4,18 +4,18 @@
     <shared>
       <config>
         <device id="pixel_3" />
-        <device id="Nexus 5X" />
-        <device id="pixel_xl" />
         <device id="pixel" />
+        <device id="pixel_xl" />
+        <device id="pixel_3_xl" />
+        <device id="pixel_2_xl" />
+        <device id="Nexus 5X" />
       </config>
     </shared>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a192ed33-0a18-4a7e-84a2-6b54f4ec44c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -76,6 +76,7 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="4b2388e39905" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-04-30T02:47:05.757Z" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588210919159</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="4 main buttons">
+      <created>1588215224044</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588215224044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +201,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add icons png" />
     <MESSAGE value="add icons png fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icons png fix" />
+    <MESSAGE value="4 main buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 main buttons" />
   </component>
 </project>
