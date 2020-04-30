@@ -135,4 +135,12 @@
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/busfront_icon" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/line_icon"
+        tools:layout_editor_absoluteX="39dp"
+        tools:layout_editor_absoluteY="76dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
